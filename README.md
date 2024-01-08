@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m @Rafabrendo</h1>
 <p>- 👀 I’m interested in learning about programming languages. Analyze and develop them, and the interaction of the algorithm and society.</p>
 
-<p> - 📫 How to reach me : https://www.linkedin.com/in/rafael-reis-9664a9100</p>
+<p> - 📫 How to reach me : https://www.linkedin.com/in/rafael-brendo</p>
 
 <div style="display: inline_block">
   <p> - 🌱 I’m currently learning :</p>
