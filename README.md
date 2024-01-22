@@ -27,8 +27,14 @@
 
   <img align="center" alt="Rafa-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 
-  
-  
+<!-- 
+  visit count
+  <div align="center">
+    <br><p align="centre"><b>Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rafabrendo}/count.svg" /></p> 
+    <br>
+  </div>
+  --->
 </div><br>
 
 <!--
