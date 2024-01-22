@@ -1,5 +1,7 @@
 <img align="center" alt="seja bem-vindo!" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Seja%20Bem-Vindo!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4864&pause=500&color=1441D2A1&background=002AFF00&random=false&width=700&lines=Ol%C3%A1!;Meu+nome+%C3%A9+Rafael+Brendo!;Estou+me+graduando+em+Engenharia+de+Software!)](https://git.io/typing-svg)
+
 <h1> 👋 Hi, I’m @Rafabrendo</h1>
 <p>- 👀 I’m interested in learning about programming languages. Analyze and develop them, and the interaction of the algorithm and society.</p>
 
