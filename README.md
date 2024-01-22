@@ -1,3 +1,5 @@
+<img align="center" alt="seja bem-vindo!" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Seja%20Bem-Vindo!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4">
+
 <h1> 👋 Hi, I’m @Rafabrendo</h1>
 <p>- 👀 I’m interested in learning about programming languages. Analyze and develop them, and the interaction of the algorithm and society.</p>
 
