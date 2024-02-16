@@ -28,7 +28,10 @@
   <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
   <img align="center" alt="Rafa-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  
+  <img align="center" alt="Rafa-R" height="30" width="30" src="https://github.com/Rafabrendo/Rafabrendo/assets/98275054/c7e41096-4c72-41db-8144-9119cb1c9999">
 
+  <img align="center" alt="Rafa-SQL" height="30" width="30" src="https://github.com/Rafabrendo/Rafabrendo/assets/98275054/a7032845-3b9a-4089-8356-687829487382">
 <!-- 
   visit count
   <div align="center">
