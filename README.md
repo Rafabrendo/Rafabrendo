@@ -13,7 +13,7 @@
   
   <img align="center" alt="Rafa-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   
-  <img align="center" alt="Rafa-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+  
   
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
@@ -39,6 +39,8 @@
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rafabrendo}/count.svg" /></p> 
     <br>
   </div>
+
+  <img align="center" alt="Rafa-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   --->
 </div><br>
 
