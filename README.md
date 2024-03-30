@@ -5,6 +5,12 @@
 <h1> 👋 Hi, I’m @Rafabrendo</h1>
 <p>- 👀 I’m interested in learning about programming languages. Analyze and develop them, and the interaction of the algorithm and society.</p>
 
+
+<a href="https://www.credly.com/badges/bb7deaf4-9426-4f52-91da-c0d3c7b7772e/public_url"><img  src="https://images.credly.com/size/240x240/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png"></a>
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bb7deaf4-9426-4f52-91da-c0d3c7b7772e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <p> - 📫 How to reach me : https://www.linkedin.com/in/rafael-brendo</p>
 
 <div style="display: inline_block">
