@@ -6,14 +6,14 @@
 <p>- 👀 I’m interested in learning about programming languages. Analyze and develop them, and the interaction of the algorithm and society.</p>
 
 
-<a href="https://www.credly.com/badges/bb7deaf4-9426-4f52-91da-c0d3c7b7772e/public_url"><img  src="https://images.credly.com/size/240x240/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png"></a>
+<a href="https://www.credly.com/badges/bb7deaf4-9426-4f52-91da-c0d3c7b7772e/public_url"><img  src="https://images.credly.com/size/240x240/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" height="250" width="250"></a>
 
 
 <p> - 📫 How to reach me : https://www.linkedin.com/in/rafael-brendo</p>
 
-<div style="display: inline_block">
+<div style="display: flex">
   <p> - 🌱 I’m currently learning :</p>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   
   <img align="center" alt="Rafa-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   
@@ -63,3 +63,11 @@
 Rafabrendo/Rafabrendo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Java Projects
+<ul>
+  <li><a href="https://github.com/Rafabrendo/OO-e-Composicao/tree/main">Exercise Commercial bank(OOP)</a></li>
+  <li><a href="https://github.com/Rafabrendo/Data-Structures">Data structure</a></li>
+  <li><a href="https://github.com/Rafabrendo/chess-system-java">Chess game using OOP</a></li>
+
+</ul>
