@@ -69,6 +69,10 @@ You can click the Preview link to take a look at your changes.
   <li><a href="https://github.com/Rafabrendo/OO-e-Composicao/tree/main">Exercise Commercial bank(OOP)</a></li>
   <li><a href="https://github.com/Rafabrendo/Data-Structures">Data structure</a></li>
   <li><a href="https://github.com/Rafabrendo/chess-system-java">Chess game using OOP</a></li>
+  <li><a href="https://github.com/Rafabrendo/rest-with-spring-boot-and-java-erudio">rest with spring boot and Java</a></li>
+  <li><a href="https://github.com/Rafabrendo/workshop-spring-boot-mongodb">Workshop with spring boot and mongodb</a></li>
+
+  <li><a href="https://github.com/Rafabrendo/jdbc-java">jdbc-java</a></li>
 
 </ul>
 
