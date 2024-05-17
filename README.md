@@ -76,8 +76,8 @@ You can click the Preview link to take a look at your changes.
 
 </ul>
 
-<div>
-<img src="imagens/Gravação-de-tela-de-10-05-2024-23_54_04.gif" alt="chess-game">  </img>
+<div style="display: grid; height: 300px; width: 100vw; grid-template-columns: 1fr 1fr 1fr 1fr; grid-template-rows: 1fr">
+  <img src="imagens/Gravação-de-tela-de-10-05-2024-23_54_04.gif"  alt="chess-game">  </img>
 
 </div>
 
