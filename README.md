@@ -76,7 +76,13 @@ You can click the Preview link to take a look at your changes.
 
 </ul>
 
-<!-- ## JavaScript Projects
+<div>
+<img src="imagens/Gravação-de-tela-de-10-05-2024-23_54_04.gif" alt="chess-game">  </img>
+
+</div>
+
+
+## JavaScript Projects
 
 
 
@@ -87,4 +93,4 @@ You can click the Preview link to take a look at your changes.
 ## R Projects
 
 
-## HTML/CSS Projects -->
+## HTML/CSS Projects
