@@ -83,11 +83,18 @@ You can click the Preview link to take a look at your changes.
 
 
 ## JavaScript Projects
+<ul>
+  <li><a href="https://github.com/Rafabrendo/pokemon">Pokemon</a></li>
+  <li><a href="https://github.com/Rafabrendo/Jogo-de-Cartas-do-Yu-Gi-Oh">Yu-Gi-Oh</a></li>
+  <li><a href="https://github.com/Rafabrendo/jogo-Da-Memoria?tab=readme-ov-file">Memory game</a></li>
+  <li><a href="">Piano game</a></li>
+</ul>
 
-<div style="display: grid; height: 300px; width: 100vw; grid-template-columns: 1fr 1fr 1fr 1fr; grid-template-rows: 1fr">
+<div style="display: grid; height: 300px; width: 100vw; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr">
   <img src="imagens/jogo-de-cartas.gif"  alt="pokemon-game" style="height: 300px; width: 350px;"></img>
   <img src="imagens/pokemon.gif"  alt="pokemon-game" style="height: 300px; width: 350px;"></img>
-
+  <img src="imagens/piano.gif"  alt="piano-game" style="height: 300px; width: 350px;"></img>
+  <img src="imagens/memory-gamee.gif"  alt="memory-game" style="height: 300px; width: 350px;"></img>
 </div>
 
 
