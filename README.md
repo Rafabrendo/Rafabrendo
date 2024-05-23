@@ -100,7 +100,10 @@ You can click the Preview link to take a look at your changes.
 
 ## Python Projects
 
-
+<br>
+<div style="display: grid; height: 300px; width: 100vw; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr">
+  <img src="imagens/jogoDaVelhapng.png"  alt="pokemon-game" style="height: 300px; width: 350px;"></img>
+</div>
 
 ## R Projects
 
