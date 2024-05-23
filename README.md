@@ -99,6 +99,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Python Projects
+<ul>
+  <li><a href="https://github.com/Rafabrendo/jogo-da-velha-py">Tic tac toe</a></li>
+</ul>
 
 <br>
 <div style="display: grid; height: 300px; width: 100vw; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr">
