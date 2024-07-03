@@ -109,6 +109,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## R Projects
-
+<ul>
+  <li><a href="https://github.com/Rafabrendo/cyclistic-data-analytics-project">Cyclistic Data Analytics Project</a></li>
+</ul>
 
 ## HTML/CSS Projects
