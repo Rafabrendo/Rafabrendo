@@ -114,3 +114,7 @@ You can click the Preview link to take a look at your changes.
 </ul>
 
 ## HTML/CSS Projects
+<ul>
+  <li><a href="https://github.com/Rafabrendo/projeto-cordel">Projeto Cordel</li>
+  <li><a href="https://github.com/Rafabrendo/projeto-android">Projeto Android</li>
+</ul>
