@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
 </ul>
 
 <div style="display: grid; height: 300px; width: 100vw; grid-template-columns: 1fr 1fr 1fr 1fr; grid-template-rows: 1fr">
-  <img src="imagens/Gravação-de-tela-de-10-05-2024-23_54_04.gif"  alt="chess-game" style="height: 300px; width: 350px;">  </img>
+  <img src="imagens/Gravação-de-tela-de-10-05-2024-23_54_04.gif"  alt="chess-game" style="height: 300px; width: 350px; border-radius: 10px">  </img>
 
 </div>
 
@@ -91,10 +91,11 @@ You can click the Preview link to take a look at your changes.
 </ul>
 
 <div style="display: grid; height: 300px; width: 100vw; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr">
-  <img src="imagens/jogo-de-cartas.gif"  alt="pokemon-game" style="height: 300px; width: 350px;"></img>
-  <img src="imagens/pokemon.gif"  alt="pokemon-game" style="height: 300px; width: 350px;"></img>
-  <img src="imagens/piano.gif"  alt="piano-game" style="height: 300px; width: 350px;"></img>
-  <img src="imagens/memory-gamee.gif"  alt="memory-game" style="height: 300px; width: 350px;"></img>
+  <img src="imagens/jogo-de-cartas.gif"  alt="pokemon-game" style="height: 300px; width: 350px; border-radius: 10px"></img>
+  <img src="imagens/pokemon.gif"  alt="pokemon-game" style="height: 300px; width: 350px; border-radius: 10px"></img>
+  <img src="imagens/piano.gif"  alt="piano-game" style="height: 300px; width: 350px; border-radius: 10px"></img>
+  <img src="imagens/memory-gamee.gif"  alt="memory-game" style="height: 300px; width: 350px; border-radius: 10px"></img>
+  <img src="imagens/detona-ralph.gif"  alt="ralph-game" style="height: 300px; width: 350px; border-radius: 10px;"></img>
 </div>
 
 
