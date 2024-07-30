@@ -122,5 +122,5 @@ You can click the Preview link to take a look at your changes.
 <ul>
   <li><a href="https://github.com/Rafabrendo/projeto-cordel">Projeto Cordel</li>
   <li><a href="https://github.com/Rafabrendo/projeto-android">Projeto Android</li>
-  <li><a href="https://rafabrendo.github.io/desafio-dio">Desafio CSS</li>
+  <li><a href="https://github.com/Rafabrendo/desafio-dio">Desafio CSS</li>
 </ul>
